@@ -1,7 +1,7 @@
 # simple-todo-app
 
 A deliberately small todo application. It exists as a fixture for automated
-code review: each pull request carries a different quality profile so a reviewer
+code reviewn: each pull request carries a different quality profile so a reviewer
 has something concrete to find.
 
 ## Structure
